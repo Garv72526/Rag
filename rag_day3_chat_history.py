@@ -282,7 +282,7 @@ print(f"History now has {len(history)} messages")
 
 # ============================================================
 # PART 6: History Management
-# Important — history grows forever without limits
+# Important — history grows forever without limitsy
 # ============================================================
 
 print("\n" + "=" * 55)
